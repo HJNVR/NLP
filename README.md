@@ -7,3 +7,6 @@ citation: \
 (1) cleaning text in python \
 https://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/?# \
 http://ieva.rocks/2016/08/07/cleaning-text-for-nlp/
+
+2. Textbook 
+Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit by Steven Bird, Ewan Klein, and Edward Loper, http://www.nltk.org/book/.
